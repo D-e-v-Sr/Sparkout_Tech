@@ -884,7 +884,7 @@ border-radius: .9375rem !important;
     background-color: #fff !important;
 }
 
-@media(min-width: 768px)
+@media(max-width: 767px)
 {
   .desktop-facts
   {
@@ -892,7 +892,7 @@ border-radius: .9375rem !important;
   }
 }
 
-@media(max-width: 767px)
+@media(min-width: 768px)
 {
   .mobile-facts
   {
