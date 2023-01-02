@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="71.002" height="71.537" viewBox="0 0 71.002 71.537">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#ff6c1a;stroke-linecap:round;stroke-linejoin:round;stroke-width:3px}
+        </style>
+    </defs>
+    <g id="Group_302" data-name="Group 302" transform="translate(417.49 -117.393)">
+        <circle id="Ellipse_469" data-name="Ellipse 469" class="cls-1" cx="6.579" cy="6.579" r="6.579" transform="translate(-361.146 118.893)"/>
+        <circle id="Ellipse_470" data-name="Ellipse 470" class="cls-1" cx="6.579" cy="6.579" r="6.579" transform="translate(-361.146 146.583)"/>
+        <circle id="Ellipse_471" data-name="Ellipse 471" class="cls-1" cx="6.579" cy="6.579" r="6.579" transform="translate(-361.146 174.273)"/>
+        <path id="Path_1165" data-name="Path 1165" class="cls-1" d="M-180.537 153.1h-10.356a1.492 1.492 0 0 0-1.492 1.492v52.4a1.492 1.492 0 0 0 1.492 1.492h10.356" transform="translate(-180.609 -27.634)"/>
+        <path id="Line_4" data-name="Line 4" class="cls-1" transform="translate(-372.994 153.161)" d="M11.848 0H0"/>
+        <path id="Line_5" data-name="Line 5" class="cls-1" transform="translate(-382.258 134.57)" d="M9.264 0H0"/>
+        <path id="Line_6" data-name="Line 6" class="cls-1" transform="translate(-382.258 153.161)" d="M9.264 0H0"/>
+        <path id="Line_7" data-name="Line 7" class="cls-1" transform="translate(-382.258 171.752)" d="M9.264 0H0"/>
+        <path id="Path_1166" data-name="Path 1166" class="cls-1" d="M-362.017 163.238h-3.683a11.533 11.533 0 0 0-11.533 11.533v.107A11.533 11.533 0 0 0-365.7 186.41h14.747v-67.517H-365.7a11.533 11.533 0 0 0-11.533 11.533h0a11.533 11.533 0 0 0 11.533 11.533h4.079" transform="translate(-31.302)"/>
+        <path id="Path_1167" data-name="Path 1167" class="cls-1" d="M-392.719 198h-11.635a11.635 11.635 0 0 1-11.636-11.63v-1.085a11.64 11.64 0 0 1 7.483-10.873" transform="translate(0 -44.844)"/>
+        <path id="Path_1168" data-name="Path 1168" class="cls-1" d="M-408.538 320.85a11.64 11.64 0 0 1-7.452-10.861V308.9a11.635 11.635 0 0 1 11.635-11.635h11.635" transform="translate(0 -144.077)"/>
+    </g>
+</svg>

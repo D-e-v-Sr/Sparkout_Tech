@@ -1,0 +1,15 @@
+<svg id="Group_445" data-name="Group 445" xmlns="http://www.w3.org/2000/svg" width="46.834" height="46.834" viewBox="0 0 46.834 46.834">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: red;
+      }
+
+      .cls-2 {
+        fill: #f6f6f6;
+      }
+    </style>
+  </defs>
+  <rect id="Rectangle_156" data-name="Rectangle 156" class="cls-1" width="46.834" height="46.834" rx="5"/>
+  <path id="Icon_awesome-play" data-name="Icon awesome-play" class="cls-2" d="M18.788,9.506,3.205.293A2.113,2.113,0,0,0,0,2.121V20.542A2.123,2.123,0,0,0,3.205,22.37l15.583-9.208a2.123,2.123,0,0,0,0-3.657Z" transform="translate(14.385 11.553)"/>
+</svg>

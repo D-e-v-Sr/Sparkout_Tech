@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="106.84" height="70.545" viewBox="0 0 106.84 70.545">
+    <defs>
+        <style>
+            .cls-1{fill:none;stroke:#ff6c1a;stroke-linecap:round;stroke-linejoin:round;stroke-width:3px}
+        </style>
+    </defs>
+    <g id="Group_303" data-name="Group 303" transform="translate(2069.547 855.884)">
+        <path id="Line_8" data-name="Line 8" class="cls-1" transform="translate(-2016.236 -854.384)" d="M0 0v12.137"/>
+        <path id="Line_9" data-name="Line 9" class="cls-1" transform="translate(-2050.088 -822.217)" d="M0 0v12.137"/>
+        <path id="Path_1169" data-name="Path 1169" class="cls-1" d="M-1930.673-797.129v4.507l-13.689 7.883v17.252l13.689 7.528 14.8-7.948v-16.442l-14.8-8.273" transform="translate(-85.564 -39.781)"/>
+        <rect id="Rectangle_106" data-name="Rectangle 106" class="cls-1" width="83.847" height="51.729" rx="9" transform="translate(-2058.16 -842.013)"/>
+        <path id="Line_10" data-name="Line 10" class="cls-1" transform="translate(-2067.511 -793.246)" d="M0 5.871 10.714 0"/>
+        <path id="Line_12" data-name="Line 12" class="cls-1" transform="translate(-1975.457 -793.246)" d="M10.714 5.871 0 0"/>
+        <path id="Line_15" data-name="Line 15" class="cls-1" transform="translate(-2044.012 -807.267)" d="M0 6.883 14.086 0"/>
+        <path id="Line_16" data-name="Line 16" class="cls-1" transform="translate(-2000.965 -807.267)" d="M14.086 6.883 0 0"/>
+        <path id="Path_1170" data-name="Path 1170" class="cls-1" d="M-1899.511-732.117v-17.3l13.821-7.641" transform="translate(-116.726 -67.622)"/>
+        <path id="Line_14" data-name="Line 14" class="cls-1" transform="translate(-2029.925 -824.519)" d="M13.689 7.481 0 0"/>
+        <circle id="Ellipse_472" data-name="Ellipse 472" class="cls-1" cx="3.396" cy="3.396" r="3.396" transform="translate(-1986.878 -819.545)"/>
+    </g>
+</svg>

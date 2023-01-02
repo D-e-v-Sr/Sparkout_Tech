@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="70.771" height="70.771" viewBox="0 0 70.771 70.771">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ff6c1a;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="services-icon-web-development" transform="translate(0.5 0.5)">
+    <path id="Path_1061" data-name="Path 1061" class="cls-1" d="M39.573,51.26H16L18.357,38H37.215Z" transform="translate(7.099 17.512)"/>
+    <path id="Path_1062" data-name="Path 1062" class="cls-1" d="M17.206,68.771H54.039M1,45.2H68.771M1,9.84A8.564,8.564,0,0,1,9.84,1H59.932a8.564,8.564,0,0,1,8.84,8.84V46.048a9.257,9.257,0,0,1-9.036,9.464h-49.7A9.257,9.257,0,0,1,1,46.048Z"/>
+  </g>
+</svg>

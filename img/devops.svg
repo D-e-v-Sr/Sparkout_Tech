@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="78.771" height="70.272" viewBox="0 0 78.771 70.272">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #ff6c1a;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+        stroke-width: 3px;
+      }
+    </style>
+  </defs>
+  <path id="services-icon-devops-services" class="cls-1" d="M37.373,37.773,9.966,25.316v29.9L37.373,67.672Zm0,0L64.78,25.316v29.9L37.373,67.672ZM64.78,25.316,37.373,12.858,9.966,25.316M37.373,12.858V.4M9.966,55.214,0,60.2m64.78-4.983L74.747,60.2" transform="translate(2.012 1.1)"/>
+</svg>

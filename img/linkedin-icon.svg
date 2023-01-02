@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="46.834" height="46.834" viewBox="0 0 46.834 46.834">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #2867b2;
+      }
+    </style>
+  </defs>
+  <g id="Group_452" data-name="Group 452" transform="translate(-1364.666 -15874.192)">
+    <rect id="Rectangle_260" data-name="Rectangle 260" class="cls-1" width="34" height="43" transform="translate(1371 15877.819)"/>
+    <path id="Icon_awesome-linkedin" data-name="Icon awesome-linkedin" class="cls-2" d="M43.489,2.25H3.335A3.36,3.36,0,0,0,0,5.627V45.708a3.36,3.36,0,0,0,3.335,3.377H43.489a3.369,3.369,0,0,0,3.345-3.377V5.627A3.369,3.369,0,0,0,43.489,2.25ZM14.155,42.394H7.213V20.043h6.952V42.394Zm-3.471-25.4a4.025,4.025,0,1,1,4.025-4.025A4.027,4.027,0,0,1,10.684,16.99Zm29.491,25.4H33.234V31.521c0-2.593-.052-5.927-3.607-5.927-3.617,0-4.171,2.823-4.171,5.739v11.06H18.514V20.043h6.659V23.1h.094a7.311,7.311,0,0,1,6.576-3.607c7.025,0,8.332,4.631,8.332,10.653Z" transform="translate(1364.666 15871.942)"/>
+  </g>
+</svg>

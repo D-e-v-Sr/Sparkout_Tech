@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="63" height="63" viewBox="0 0 63 63">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #af4a11;
+      }
+
+      .cls-2 {
+        fill: #fff;
+      }
+    </style>
+  </defs>
+  <g id="Group_423" data-name="Group 423" transform="translate(-216 -14369)">
+    <rect id="Rectangle_238" data-name="Rectangle 238" class="cls-1" width="63" height="63" rx="11" transform="translate(216 14369)"/>
+    <path id="Icon_material-email" data-name="Icon material-email" class="cls-2" d="M32.783,6H6.309A3.3,3.3,0,0,0,3.017,9.309L3,29.164a3.319,3.319,0,0,0,3.309,3.309H32.783a3.319,3.319,0,0,0,3.309-3.309V9.309A3.319,3.319,0,0,0,32.783,6Zm0,6.618L19.546,20.891,6.309,12.618V9.309l13.237,8.273L32.783,9.309Z" transform="translate(227.649 14381.119)"/>
+  </g>
+</svg>

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="103" height="103" viewBox="0 0 103 103">
+    <defs>
+        <style>
+            .cls-2{fill:none;stroke:#757575;stroke-linecap:round;stroke-linejoin:round;stroke-width:3px}
+        </style>
+    </defs>
+    <g id="Group_459" data-name="Group 459" transform="translate(-1498 -10451)">
+        <g id="Ellipse_478" data-name="Ellipse 478" transform="translate(1498 10451)" style="fill:#f3f6f9;stroke:#c9c9c9;stroke-width:2px">
+            <circle cx="51.5" cy="51.5" r="51.5" style="stroke:none"/>
+            <circle cx="51.5" cy="51.5" r="50.5" style="fill:none"/>
+        </g>
+        <g id="Icon_feather-arrow-left" data-name="Icon feather-arrow-left" transform="translate(1523.5 10476.5)">
+            <path id="Path_1349" data-name="Path 1349" class="cls-2" d="M44.129 18H7.5" transform="translate(0 7.814)"/>
+            <path id="Path_1350" data-name="Path 1350" class="cls-2" d="M25.814 44.129 7.5 25.814 25.814 7.5"/>
+        </g>
+    </g>
+</svg>

@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="50" height="71" viewBox="0 0 50 71">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: none;
+        stroke: #ff6c1a;
+        stroke-linecap: round;
+        stroke-linejoin: round;
+      }
+
+      .cls-1 {
+        stroke-width: 3px;
+      }
+
+      .cls-2 {
+        stroke-width: 5px;
+      }
+    </style>
+  </defs>
+  <g id="smartphone" transform="translate(-3.5 -0.5)">
+    <rect id="Rectangle_82" data-name="Rectangle 82" class="cls-1" width="47" height="68" rx="5" transform="translate(5 2)"/>
+    <line id="Line_2" data-name="Line 2" class="cls-2" transform="translate(29 62)"/>
+    <rect id="Rectangle_83" data-name="Rectangle 83" class="cls-1" width="31" height="44" rx="2" transform="translate(13 10)"/>
+  </g>
+</svg>
